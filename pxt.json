@@ -1,0 +1,18 @@
+{
+    "name": "jumpy platformer",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "color-coded-tilemap": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
